@@ -7,4 +7,4 @@ Carlos Salazar Martínez
 Juan Pablo Zavala Páramo
 
 Objetivo:
-Desarrollarunsoftwarequerespaldeyfacilitelacapturayconsultadeinformacióndelosadoptantes y de los perros en el refugio Dame la Pata A. C.
+Desarrollar un software que respalde y facilite la captura y consulta de información de los adoptantes y de los perros en el refugio Dame la Pata A. C.
