@@ -1,6 +1,7 @@
 CREATE DATABASE Proyecto_DLP
 GO
 
+
 CREATE TABLE Perro
 (
 	IdPerro INT IDENTITY(1,1) PRIMARY KEY,
@@ -21,6 +22,8 @@ CREATE TABLE Vacuna
 
 	FOREIGN KEY(IdPerro) REFERENCES Perro(IdPerro)
 )
+<<<<<<< HEAD
+=======
 
 
 CREATE TABLE Adopción 
@@ -56,3 +59,4 @@ Observaciones As varchar(50)
 CONSTRAINT fk_IdAdoptante_Visita FOREIGN KEY (IdAdoptante) REFERENCES Adoptante(IdAdoptante)
 )
 GO
+>>>>>>> 7ba85ceaf46b7d671442fab61393dfc996b56d17
