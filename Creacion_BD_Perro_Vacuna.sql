@@ -1,0 +1,2 @@
+CREATE DATABASE Proyecto_DLP
+GO
